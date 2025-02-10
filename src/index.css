@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-verde-osc {
+ color: #557B57;
+}
+
+.text-verde-claro{
+  color: #C9E165;
+}
+
+.text-marron{
+  color: #C38754;
+}
+
+.bg-verde-osc {
+  background-color: #557B57;
+ }
+ 
+ .bg-verde-claro{
+   background-color: #C9E165;
+ }
+ 
+ .bg-marron{
+   background-color: #C38754;
+ }
+
+ .background-main {
+  background-image: url("https://i.ibb.co/qyZkLF2/bg.png");
+  background-attachment: fixed;
+  background-size: cover;
+ }
