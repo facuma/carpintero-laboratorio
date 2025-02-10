@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 function Countdown() {
-  const targetDate = new Date('2025-02-01T00:00:00'); // Fecha de inicio del curso
+  const targetDate = new Date('2025-02-25T00:00:00'); // Fecha de inicio del curso
 
   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
 

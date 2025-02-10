@@ -5,7 +5,7 @@ function CasosExito() {
     { 
       image: "imagen_caso_exito_1.jpg", // Reemplaza con la URL de tu imagen
       name: 'Patricio', 
-      description: 'Juan aprendió a crear muebles increíbles.' 
+      description: 'Gracias a la Escuela de Carpinteros de Laboratorio paso de ser herrero a complementar la carpinteria con la herreria...' 
     },
     
     // ... más historias de éxito
@@ -32,9 +32,10 @@ function CasosExito() {
             </div>
           ))}
         </div>
+        <a href="https://wa.me/5493625190474?text=Hola!%20Quiero%20entrar%20a%20la%20comunidad%20del%20curso%20de%20carpinteros%20de%20laboratorio." target="_blank" rel="noopener noreferrer">
         <button className="bg-verde-osc  text-white font-bold py-3 px-6 rounded-lg mt-10">
           Quiero entrar a la comunidad
-        </button>
+        </button></a>
       </div>
     </div>
   );
