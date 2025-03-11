@@ -107,7 +107,7 @@ function FormularioReserva() {
             Valor total de los beneficios: <span className="line-through text-gray-500 mr-2">$720.000</span><br/> <span className="text-green-500 mt-14 font-bold text-6xl">$149.000</span>
           </p>
         </div>
-        <a href="https://wa.me/5493625190474?text=Hola!%20Quiero%20reservar%20mi%20lugar%20en%20la%20Escuela%20de%20Carpinteros%20de%20laboratorio." target="_blank" rel="noopener noreferrer">
+        <a href="https://wa.me/5493814691035?text=Hola!%20Quiero%20reservar%20mi%20lugar%20en%20la%20Escuela%20de%20Carpinteros%20de%20laboratorio." target="_blank" rel="noopener noreferrer">
         <button className="bg-verde-osc w-1/2  text-white font-bold py-3 px-6 rounded-lg mt-10">
           Acceder Ahora
         </button></a>

@@ -139,7 +139,7 @@ function Comunidad() {
       ))}
     </div>
 
-    <a href="https://wa.me/5493625190474?text=Hola!%20Quiero%20reservar%20mi%20lugar%20en%20el%20curso%20de%20carpinteros%20de%20laboratorio." target="_blank" rel="noopener noreferrer">
+    <a href="https://wa.me/5493814691035?text=Hola!%20Quiero%20reservar%20mi%20lugar%20en%20el%20curso%20de%20carpinteros%20de%20laboratorio." target="_blank" rel="noopener noreferrer">
       <button className="bg-verde-osc hover:bg-marron text-white w-11/12 font-bold py-3 px-6 rounded-lg mt-10">
         RESERVAR MI LUGAR
       </button>
